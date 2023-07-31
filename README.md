@@ -1,6 +1,6 @@
 # Automatic Directory Backup
 ## _Description_
-This program offers a safe way of backing up a certain directory to another backup directory upon a change is detected.
+This program offers a safe way of backing up a target directory to another backup directory upon a change is detected.
 ## _How it works?_
 The user provides the program with 4 parameters:
 - Name of directory to be Backed up.
